@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { playfair, inter } from "@/lib/fonts";
+import { playfair, inter, montserrat } from "@/lib/fonts";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -34,7 +34,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es" className={`${playfair.variable} ${inter.variable}`}>
+    <html lang="es" className={`${playfair.variable} ${inter.variable} ${montserrat.variable}`}>
       <head>
         <meta name="theme-color" content="#18181b" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
