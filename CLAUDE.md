@@ -46,6 +46,8 @@ src/
 │   ├── layout.tsx              # Root layout
 │   ├── page.tsx                # Landing principal
 │   ├── globals.css             # Estilos globales
+│   ├── icon.png                # Favicon (32x32)
+│   ├── apple-icon.png          # Apple touch icon (180x180)
 │   └── (marketing)/            # Páginas secundarias
 │       ├── servicios/
 │       ├── nosotros/
@@ -60,7 +62,7 @@ src/
 │       ├── Services.tsx        # 6 servicios con badges
 │       ├── Experience.tsx      # Timeline y stats
 │       ├── Testimonials.tsx    # 3 testimoniales
-│       ├── Team.tsx            # 4 miembros del equipo
+│       ├── Team.tsx            # 3 miembros del equipo
 │       ├── FAQ.tsx             # 6 preguntas frecuentes
 │       ├── Contact.tsx         # Formulario + mapa
 │       ├── Footer.tsx          # Footer
@@ -85,7 +87,6 @@ src/
 | Javier Cueva Ancira | Director General | +38 años |
 | Javier Cueva Rodríguez | Director Jurídico | +17 años |
 | Raúl Mauricio Cueva | Director Administrativo | 19 años |
-| Ricardo Cueva Acosta | COO | +16 años |
 
 ### Clientes Conocidos
 - Walmart
@@ -118,6 +119,7 @@ vercel --prod
 - [x] Formulario con estados (loading, success)
 - [x] FAQ accordion
 - [x] Google Maps embed
+- [x] Favicon y Apple touch icon
 
 ### Secciones
 - [x] Hero con testimonial inline
@@ -145,6 +147,9 @@ Este sitio es el showcase del cliente piloto para **LexFlow** (SaaS de gestión 
 ## Historial de Commits
 
 ```
+f54a5bf UX: Add favicon and apple icon from logo
+5ab8326 Data: Remove Ricardo Cueva Acosta from team section
+d0e287e Docs: Add project CLAUDE.md with full documentation
 75cccf1 UX: Major landing page improvements and real data
 9ab5c87 Feat: Add complete CuevAbogados landing page
 541345d Initial commit: CuevAbogados website
