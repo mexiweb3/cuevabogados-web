@@ -24,7 +24,7 @@ const stats = [
   },
   {
     icon: Users,
-    value: "5",
+    value: "3",
     label: "Abogados especialistas",
     description: "En derecho laboral",
   },
