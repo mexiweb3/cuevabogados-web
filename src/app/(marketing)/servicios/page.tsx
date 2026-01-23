@@ -126,7 +126,7 @@ export default function ServiciosPage() {
             </h1>
             <p className="text-xl text-navy-100 leading-relaxed">
               Soluciones legales integrales para proteger a su empresa en
-              materia laboral. Más de 78 años de experiencia nos respaldan.
+              materia laboral. Más de 80 años de experiencia nos respaldan.
             </p>
           </div>
         </div>

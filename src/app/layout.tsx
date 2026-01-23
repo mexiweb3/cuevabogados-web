@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "CuevAbogados | Abogados Laborales Patronales en Monterrey",
   description:
-    "Despacho de abogados especializado en derecho laboral patronal con 78 años de experiencia en Monterrey. Defensa de empresas, consultoría preventiva y litigio laboral.",
+    "Despacho de abogados especializado en derecho laboral patronal con 80 años de experiencia en Monterrey. Defensa de empresas, consultoría preventiva y litigio laboral.",
   keywords: [
     "abogados laborales monterrey",
     "derecho laboral patronal",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "CuevAbogados | Defensa Laboral Patronal",
-    description: "78 años protegiendo empresas en Monterrey",
+    description: "80 años protegiendo empresas en Monterrey",
     type: "website",
     locale: "es_MX",
   },

@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight, CheckCircle } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Nosotros | CuevAbogados - 78 Años de Historia",
+  title: "Nosotros | CuevAbogados - 80 Años de Historia",
   description:
     "Conoce la historia de CuevAbogados, tres generaciones dedicadas al derecho laboral patronal en Monterrey desde 1946.",
 };
@@ -30,7 +30,7 @@ const timeline = [
   },
   {
     year: "Hoy",
-    title: "78 Años de Excelencia",
+    title: "80 Años de Excelencia",
     description:
       "Continuamos protegiendo a empresas nacionales e internacionales con la misma dedicación de siempre.",
   },
@@ -82,7 +82,7 @@ export default function NosotrosPage() {
         <div className="container mx-auto px-4 lg:px-8">
           <div className="max-w-4xl mx-auto">
             <h2 className="font-serif text-3xl font-bold text-navy-500 mb-12 text-center">
-              78 Años de Trayectoria
+              80 Años de Trayectoria
             </h2>
 
             <div className="relative">

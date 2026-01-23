@@ -3,7 +3,7 @@ import { Clock, UserCheck, Lock } from "lucide-react";
 const reasons = [
   {
     icon: Clock,
-    title: "78 Años de Experiencia Local",
+    title: "80 Años de Experiencia Local",
     description:
       "Desde 1946 atendemos a las empresas más importantes de Monterrey y Nuevo León. Conocemos el tejido empresarial de la región como nadie.",
   },

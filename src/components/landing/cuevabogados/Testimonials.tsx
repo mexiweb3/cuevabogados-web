@@ -71,7 +71,7 @@ export default function Testimonials() {
             Lo que dicen nuestros clientes
           </h2>
           <p className="text-lg text-charcoal/70">
-            78 anos construyendo relaciones de confianza con empresas de
+            80 anos construyendo relaciones de confianza con empresas de
             Monterrey y el area metropolitana.
           </p>
         </motion.div>

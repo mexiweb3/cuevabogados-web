@@ -3,7 +3,7 @@ import { Scale, Users, Building2, Award } from "lucide-react";
 const stats = [
   {
     icon: Award,
-    value: "78+",
+    value: "80+",
     label: "Años de Experiencia",
     description: "Fundados en 1946",
   },

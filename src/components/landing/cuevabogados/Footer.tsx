@@ -16,7 +16,7 @@ export default function Footer() {
             </div>
             <p className="text-navy-300 max-w-sm mb-4">
               Despacho de abogados especializado en derecho laboral patronal.
-              78 anos protegiendo empresas en Monterrey y Nuevo Leon.
+              80 anos protegiendo empresas en Monterrey y Nuevo Leon.
             </p>
           </div>
 

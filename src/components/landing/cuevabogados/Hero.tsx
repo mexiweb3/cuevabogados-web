@@ -52,12 +52,12 @@ function useCountUp(end: number, duration: number = 2000, startOnView: boolean =
 export default function Hero() {
   const stats = [
     { value: 2500, label: "Casos ganados", prefix: "+" },
-    { value: 78, label: "Anos de experiencia", prefix: "" },
+    { value: 80, label: "Anos de experiencia", prefix: "" },
     { value: 95, label: "Tasa de exito", prefix: "", suffix: "%" },
   ];
 
   const casosCounter = useCountUp(2500, 2000);
-  const anosCounter = useCountUp(78, 1500);
+  const anosCounter = useCountUp(80, 1500);
   const tasaCounter = useCountUp(95, 1800);
 
   return (
@@ -86,7 +86,7 @@ export default function Hero() {
           >
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-navy-400/50 border border-gold-500/30 rounded text-gold-300 text-sm font-medium">
               <span className="w-2 h-2 bg-gold-500 rounded-full animate-pulse" />
-              78 anos protegiendo empresas
+              80 anos protegiendo empresas
             </div>
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-green-500/20 border border-green-400/30 rounded text-green-300 text-sm font-medium">
               <Clock className="w-4 h-4" />

@@ -69,7 +69,7 @@ export function ServicesSection() {
           </h2>
           <p className="text-lg text-gray-600">
             Soluciones legales integrales para proteger a su empresa en materia
-            laboral. Más de 78 años de experiencia nos respaldan.
+            laboral. Más de 80 años de experiencia nos respaldan.
           </p>
         </div>
 

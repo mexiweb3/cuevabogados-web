@@ -33,7 +33,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-navy-200 text-sm leading-relaxed">
-              Más de 78 años protegiendo los intereses de empresas en Monterrey.
+              Más de 80 años protegiendo los intereses de empresas en Monterrey.
               Especialistas en derecho laboral patronal.
             </p>
           </div>

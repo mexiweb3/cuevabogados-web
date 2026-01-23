@@ -6,7 +6,7 @@ import { Award, Building2, Users, Clock } from "lucide-react";
 const stats = [
   {
     icon: Clock,
-    value: "78",
+    value: "80",
     label: "Anos de trayectoria",
     description: "Fundado en 1946",
   },
@@ -35,7 +35,7 @@ const milestones = [
   { year: "1975", event: "Expansion a derecho laboral patronal exclusivo" },
   { year: "1998", event: "Primera defensa colectiva ante JLCA de NL" },
   { year: "2015", event: "Integracion de tecnologia legal moderna" },
-  { year: "2024", event: "78 anos de servicio ininterrumpido a empresas" },
+  { year: "2026", event: "80 anos de servicio ininterrumpido a empresas" },
 ];
 
 const containerVariants = {

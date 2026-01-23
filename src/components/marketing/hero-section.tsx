@@ -25,7 +25,7 @@ export function HeroSection() {
             <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2 mb-8">
               <Shield className="h-4 w-4 text-gold-400" />
               <span className="text-white/90 text-sm font-medium">
-                78 años de experiencia
+                80 años de experiencia
               </span>
             </div>
 
@@ -75,7 +75,7 @@ export function HeroSection() {
                   <div className="w-48 h-48 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center">
                     <div className="text-center">
                       <span className="block font-serif text-6xl font-bold text-gold-400">
-                        78
+                        80
                       </span>
                       <span className="block text-white text-lg mt-2">
                         años
