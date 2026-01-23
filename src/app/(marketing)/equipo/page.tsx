@@ -60,23 +60,6 @@ const team = [
     linkedin: null,
   },
   {
-    name: "Ricardo Cueva Acosta",
-    role: "COO",
-    experience: "+16 años de experiencia",
-    initials: "RCA",
-    bio: "Supervisa la estrategia operacional. Profesor colaborador en Tecnológico de Monterrey. Ha trabajado con empresas Fortune 500.",
-    education: [
-      "Licenciatura en Derecho - Universidad Regiomontana",
-      "MBA MEDEX - IPADE Business School",
-    ],
-    specialties: [
-      "Operaciones Legales",
-      "Gestión de Clientes Corporativos",
-      "Cumplimiento Normativo",
-    ],
-    linkedin: null,
-  },
-  {
     name: "Rodrigo Llanes Ortiz",
     role: "Abogado Laboralista",
     experience: "Desde 2019",

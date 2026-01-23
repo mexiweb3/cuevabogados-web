@@ -28,14 +28,6 @@ const team = [
     initials: "RMC",
     linkedin: "https://www.linkedin.com/in/raul-mauricio-cueva/",
   },
-  {
-    name: "Lic. Ricardo Cueva Acosta",
-    role: "COO",
-    specialty: "Operaciones y estrategia",
-    experience: "+16 anos",
-    initials: "RCA",
-    linkedin: "https://www.linkedin.com/in/ricardo-cueva-acosta/",
-  },
 ];
 
 const containerVariants = {
@@ -87,7 +79,7 @@ export default function Team() {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}
-          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"
+          className="grid grid-cols-1 md:grid-cols-3 gap-6"
         >
           {team.map((member) => (
             <motion.div

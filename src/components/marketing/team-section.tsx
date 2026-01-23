@@ -27,14 +27,6 @@ const team = [
     initials: "RMC",
     linkedin: null,
   },
-  {
-    name: "Ricardo Cueva Acosta",
-    role: "COO",
-    experience: "+16 años",
-    education: "MBA IPADE",
-    initials: "RCA",
-    linkedin: null,
-  },
 ];
 
 export function TeamSection() {
@@ -53,7 +45,7 @@ export function TeamSection() {
         </div>
 
         {/* Team Grid */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
+        <div className="grid sm:grid-cols-3 gap-8 mb-12">
           {team.map((member, index) => (
             <div
               key={index}
