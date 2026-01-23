@@ -138,7 +138,7 @@ export default function Contact() {
             {/* Google Maps embed */}
             <div className="rounded-lg overflow-hidden border border-navy-100 shadow-sm">
               <iframe
-                src="https://www.google.com/maps?q=Mirador+111+Sur,+Col.+Mirador,+64070+Monterrey,+N.L.,+Mexico&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d904.1!2d-100.3298558!3d25.6695658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662be1f1f5eaaab%3A0xf8ca9e2f87ab8314!2sCueva%20Abogados!5e0!3m2!1ses-419!2smx!4v1705963200000!5m2!1ses-419!2smx"
                 width="100%"
                 height="200"
                 style={{ border: 0 }}
