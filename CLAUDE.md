@@ -2,7 +2,7 @@
 
 ## Proyecto
 
-Landing page profesional para **CuevAbogados** (Javier Cueva Ancira y Asociados, S.C.), despacho de derecho laboral patronal en Monterrey con 78 años de trayectoria.
+Landing page profesional para **CuevAbogados** (Javier Cueva Ancira y Asociados, S.C.), despacho de derecho laboral patronal en Monterrey con 80 años de trayectoria (fundado en 1946).
 
 **URLs:**
 - Producción: https://cuevabogados.vercel.app
@@ -147,6 +147,10 @@ Este sitio es el showcase del cliente piloto para **LexFlow** (SaaS de gestión 
 ## Historial de Commits
 
 ```
+69424b3 Data: Update firm age from 78 to 80 years (1946-2026)
+339fdaa Fix: Use exact Google Maps place ID for office location
+2cfcdea Data: Update team count from 5 to 3 specialists
+a8a7f67 Docs: Update CLAUDE.md with recent changes
 f54a5bf UX: Add favicon and apple icon from logo
 5ab8326 Data: Remove Ricardo Cueva Acosta from team section
 d0e287e Docs: Add project CLAUDE.md with full documentation
@@ -155,8 +159,20 @@ d0e287e Docs: Add project CLAUDE.md with full documentation
 541345d Initial commit: CuevAbogados website
 ```
 
+## Historia del Despacho
+
+| Año | Evento |
+|-----|--------|
+| 1946 | Fundación por Lic. Javier Cueva Zambrano |
+| 1986 | Javier Cueva Ancira asume dirección (2da generación) |
+| 2006 | Se incorpora 3ra generación (Javier y Raúl Mauricio) |
+| 2026 | 80 años de servicio ininterrumpido |
+
+**Fuentes verificadas:** [cuevabogados.mx](http://cuevabogados.mx/nosotros.html), [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.javier_cueva_ancira_y_asociados_sc.678ddb8b843a1ea1ddbc850062aa50c1.html)
+
 ## Notas
 
 - El logo (`public/logo-cuevabogados.jpeg`) es el oficial del despacho
 - La fuente del logo es similar a **Gotham Bold** / **Montserrat Bold**
 - WhatsApp es el canal preferido para contacto en México
+- Google Maps Place ID: `0x8662be1f1f5eaaab:0xf8ca9e2f87ab8314`
